@@ -23,3 +23,4 @@ I have a dedicated architectural interest in high-availability backend design, s
 
 * **[bcgit/bc-java #2269](https://github.com/bcgit/bc-java/pull/2269)**: Fixed incorrect Javadoc in EllipticCurveKeyPairGenerator example
 * **[bcgit/bc-java #2272](https://github.com/bcgit/bc-java/pull/2272)**: Validated local EC domain parameters for MQV key agreement
+* **[micrometer-metrics/micrometer #7287](https://github.com/micrometer-metrics/micrometer/pull/7287)**: Add tests for invalid and edge cases in DurationValidator
