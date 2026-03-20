@@ -21,6 +21,7 @@ I have a dedicated architectural interest in high-availability backend design, s
 
 ### Open Source Contributions
 
-* **[bcgit/bc-java #2269](https://github.com/bcgit/bc-java/pull/2269)**: Fixed incorrect Javadoc in EllipticCurveKeyPairGenerator example
-* **[bcgit/bc-java #2272](https://github.com/bcgit/bc-java/pull/2272)**: Validated local EC domain parameters for MQV key agreement
+* **[spring-projects/spring-boot #49662](https://github.com/spring-projects/spring-boot/pull/49662)**: Add boundary tests for JsonValueWriter max nesting depth
 * **[micrometer-metrics/micrometer #7287](https://github.com/micrometer-metrics/micrometer/pull/7287)**: Add tests for invalid and edge cases in DurationValidator
+* **[bcgit/bc-java #2272](https://github.com/bcgit/bc-java/pull/2272)**: Validated local EC domain parameters for MQV key agreement
+* **[bcgit/bc-java #2269](https://github.com/bcgit/bc-java/pull/2269)**: Fixed incorrect Javadoc in EllipticCurveKeyPairGenerator example
