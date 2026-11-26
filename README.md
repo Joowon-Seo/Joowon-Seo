@@ -10,7 +10,7 @@ My interests include high availability, performance optimization, digital signat
 
 - **Languages & Frameworks:** Java, Go, Spring Boot
 - **Databases:** PostgreSQL, MySQL, Redis
-- **Infrastructure:** Azure, AWS, Docker, Nginx
+- **Infrastructure:** Azure, AWS, Docker, Nginx, IIS
 - **Monitoring & Performance:** Prometheus, Grafana, k6, JMH, JFR, async-profiler
 
 ### Open Source Contributions
