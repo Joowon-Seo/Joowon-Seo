@@ -1,27 +1,28 @@
 # Software Engineer
 
-I am a Software Engineer specializing in data encryption solutions. My current focus is developing MIP-based security products, including centralized management consoles, licensing systems, and authentication servers.
+I develop authentication servers for a MIP-based data encryption solution serving 500K DAU.
 
-I have a dedicated architectural interest in high-availability backend design, system performance optimization, and the practical application of cryptography. To support continuous technical growth, I have documented my engineering journey through more than 350 technical blog posts.
+My interests include high availability, performance optimization, digital signatures, and cryptography.
 
----
+[Technical Blog](https://blog.naver.com/smileman___) · [Currently Studying : MIT 6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
-### Technical Skills
+### Technical Stack
 
-* **Languages & Frameworks**
-  * Java, Spring Boot, Querydsl
-* **Databases**
-  * MySQL, PostgreSQL, Redis
-* **Infrastructure & DevOps**
-  * AWS, Azure, Docker, Nginx
-* **Observability**
-  * Prometheus, Grafana
-
----
+- **Languages & Frameworks:** Java, Go, Spring Boot
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Infrastructure:** Azure, AWS, Docker, Nginx
+- **Monitoring & Performance:** Prometheus, Grafana, k6, JMH, JFR, async-profiler
 
 ### Open Source Contributions
 
-* **[spring-projects/spring-boot #49662](https://github.com/spring-projects/spring-boot/pull/49662)**: Add boundary tests for JsonValueWriter max nesting depth
-* **[micrometer-metrics/micrometer #7287](https://github.com/micrometer-metrics/micrometer/pull/7287)**: Add tests for invalid and edge cases in DurationValidator
-* **[bcgit/bc-java #2272](https://github.com/bcgit/bc-java/pull/2272)**: Validated local EC domain parameters for MQV key agreement
-* **[bcgit/bc-java #2269](https://github.com/bcgit/bc-java/pull/2269)**: Fixed incorrect Javadoc in EllipticCurveKeyPairGenerator example
+- **[Spring Boot #49662](https://github.com/spring-projects/spring-boot/pull/49662)**  
+  Added boundary tests for `JsonValueWriter`'s maximum nesting depth. Merged.
+
+- **[Micrometer #7287](https://github.com/micrometer-metrics/micrometer/pull/7287)**  
+  Added tests for invalid inputs and edge cases in `DurationValidator`. Merged.
+
+- **[Bouncy Castle #2269](https://github.com/bcgit/bc-java/pull/2269)**  
+  Corrected the Javadoc and usage text for the `EllipticCurveKeyPairGenerator` example. Incorporated by a maintainer.
+
+- **[Bouncy Castle #2272](https://github.com/bcgit/bc-java/pull/2272)**  
+  Proposed EC domain-parameter validation for MQV key agreement. Following review, maintainers added related tests.
